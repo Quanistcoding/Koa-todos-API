@@ -1,0 +1,128 @@
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"使用者不存在","service":"user-service"}
+{"level":"error","message":"使用者不存在","service":"user-service"}
+{"level":"error","message":456,"service":"user-service"}
+{"level":"error","message":456,"service":"user-service"}
+{"level":"error","message":456,"service":"user-service"}
+{"level":"error","message":456,"service":"user-service"}
+{"level":"error","message":456,"service":"user-service"}
+{"level":"error","message":456,"service":"user-service"}
+{"level":"error","message":456,"service":"user-service"}
+{"level":"error","message":456,"service":"user-service"}
+{"level":"error","message":456,"service":"user-service"}
+{"level":"error","message":456,"service":"user-service"}
+{"level":"error","message":456,"service":"user-service"}
+{"level":"error","message":456,"service":"user-service"}
+{"level":"error","message":456,"service":"user-service"}
+{"level":"error","message":456,"service":"user-service"}
+{"level":"error","message":456,"service":"user-service"}
+{"level":"error","message":456,"service":"user-service"}
+{"level":"error","message":"456","service":"user-service"}
+{"level":"error","message":"使用者不存在","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"email is required","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"email is required","service":"user-service"}
+{"level":"error","message":"email is required","service":"user-service"}
+{"level":"error","message":"password is required","service":"user-service"}
+{"level":"error","message":"User of the given eamil dose not exists","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"invalid signature","name":"JsonWebTokenError","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"somehting went wrong!","service":"user-service"}
+{"level":"error","message":"somehting went wrong!","service":"user-service"}
+{"level":"error","message":"somehting went wrong!","service":"user-service"}
+{"level":"error","message":"somehting went wrong!","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","service":"user-service"}
+{"level":"error","message":"Joi.string(...).valid(...).required(...).messagess is not a function","service":"user-service"}
+{"level":"error","message":"Joi.string(...).valid(...).required(...).messagess is not a function","service":"user-service"}
+{"level":"error","message":"Joi.string(...).valid(...).required(...).messagess is not a function","service":"user-service"}
+{"level":"error","message":"Joi.string(...).valid(...).required(...).messagess is not a function","service":"user-service"}
+{"level":"error","message":"Joi.string(...).valid(...).required(...).messagess is not a function","service":"user-service","timestamp":"2022-11-23T12:12:44.839Z"}
+{"level":"error","message":"Must provide a valid Error object or a function","service":"user-service","timestamp":"2022-11-23T12:18:17.206Z"}
+{"level":"error","message":"Must provide a valid Error object or a function","service":"user-service","timestamp":"2022-11-23T12:18:34.854Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","service":"user-service","timestamp":"2022-11-23T12:18:58.317Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","service":"user-service","timestamp":"2022-11-23T12:19:06.693Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading '0')","service":"user-service","timestamp":"2022-11-23T12:20:15.013Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39c16263ee00d\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T09:30:08.997Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39c16263ee00d\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T09:30:09.196Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T09:30:41.197Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T09:30:41.390Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T09:31:36.083Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T09:31:39.037Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T09:31:42.034Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T09:31:46.042Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T09:31:48.610Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T09:31:51.135Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T09:31:51.330Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39c16263ee00d2\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T09:32:57.067Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39c16263ee00d2\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T09:32:57.263Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39c16263ee00d2\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T09:33:47.409Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39c16263ee00d2\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T09:33:47.613Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39c16263ee00d2\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T09:34:38.843Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39c16263ee00d2\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T09:34:39.041Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"ads\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T10:15:45.220Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39c16263ee00d2fb9cd\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T10:16:29.519Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"637f39c16263ee00d2fb9cd\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T10:17:40.641Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"asd\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-28T11:27:36.189Z"}
+{"level":"error","message":"Operation `users.findOneAndDelete()` buffering timed out after 10000ms","service":"user-service","timestamp":"2022-11-28T11:28:13.495Z"}
+{"level":"error","message":"Operation `users.findOneAndDelete()` buffering timed out after 10000ms","service":"user-service","timestamp":"2022-11-28T11:28:52.940Z"}
+{"level":"error","message":"Operation `users.findOne()` buffering timed out after 10000ms","service":"user-service","timestamp":"2022-11-28T11:33:24.023Z"}
+{"level":"error","message":"Operation `users.findOne()` buffering timed out after 10000ms","service":"user-service","timestamp":"2022-11-28T11:34:09.519Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"asd\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-29T11:19:08.090Z"}
+{"level":"error","message":"Cast to ObjectId failed for value \"asd\" (type string) at path \"_id\" for model \"User\"","service":"user-service","timestamp":"2022-11-29T11:21:37.094Z"}
+{"level":"error","message":"mongoose is not defined","service":"user-service","timestamp":"2022-11-29T11:33:53.580Z"}
+{"level":"error","message":"mongoose is not defined","service":"user-service","timestamp":"2022-11-29T11:34:15.356Z"}
+{"level":"error","message":"mongoose is not defined","service":"user-service","timestamp":"2022-11-29T11:34:23.246Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-29T11:35:00.995Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-29T11:35:45.443Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-29T11:41:32.617Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-29T11:41:47.430Z"}
+{"level":"error","message":"mongoose is not defined","service":"user-service","timestamp":"2022-11-29T23:34:08.851Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-29T23:34:58.261Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-29T23:37:13.617Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-29T23:37:29.126Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-29T23:39:40.990Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T08:39:42.686Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T08:42:00.247Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T10:54:56.039Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T10:54:56.170Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T10:56:00.850Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T10:56:00.979Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T10:58:16.806Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T10:58:16.938Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T10:59:03.564Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T11:24:50.752Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T11:24:50.888Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T11:26:15.563Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T11:26:19.502Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T11:26:21.506Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T11:26:36.550Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T11:26:39.507Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T11:26:46.506Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T11:26:50.558Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T11:26:52.898Z"}
+{"level":"error","message":"invalid object id","service":"user-service","timestamp":"2022-11-30T11:27:02.395Z"}
+{"level":"error","message":"error is not defined","service":"user-service","timestamp":"2022-11-30T11:34:34.947Z"}
+{"level":"error","message":"error is not defined","service":"user-service","timestamp":"2022-11-30T11:35:42.114Z"}
+{"level":"error","service":"user-service","timestamp":"2022-12-20T13:04:11.624Z"}
+{"level":"error","message":"user.generateAuthToken is not a function","service":"user-service","timestamp":"2022-12-20T13:05:10.726Z"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'email')","service":"user-service","timestamp":"2022-12-26T06:01:25.656Z"}
+{"level":"error","message":"invalid signature","service":"user-service","timestamp":"2022-12-26T06:07:27.975Z"}

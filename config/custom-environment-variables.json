@@ -1,0 +1,5 @@
+{
+  "port":"myPort",
+  "db":"koa_todos_db",
+  "jwtPrivateKey":"jwtPrivateKey"
+}
